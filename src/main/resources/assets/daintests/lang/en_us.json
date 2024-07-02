@@ -1,0 +1,103 @@
+{
+  "item.daintests.wolframium_ingot": "Wolframium Ingot",
+  "item.daintests.raw_wolframite": "Raw Wolframite",
+  "item.daintests.crystallized_ender_essence_shard": "Crystallized Ender-Essence Shard",
+
+  "item.daintests.strawberry": "Strawberry",
+  "item.daintests.blueberry": "Blueberry",
+  "item.daintests.blackberry": "Blackberry",
+  "item.daintests.strawberry_seeds": "Strawberry Seeds",
+
+  "item.daintests.dice": "Dice",
+  "item.daintests.saaa_dice": "Saaa Dice",
+  "item.daintests.0_1_dice": "0-1 Dice",
+  "item.daintests.2_dice": "2 Dice",
+  "item.daintests.3_dice": "3 Dice",
+  "item.daintests.5_dice": "5 Dice",
+  "item.daintests.7_dice": "7 Dice",
+  "item.daintests.10_dice": "10 Dice",
+  "item.daintests.golden_dice": "Golden Dice",
+  "item.daintests.black_dice": "Black Dice",
+  "item.daintests.emerald_dice": "Emerald Dice",
+  "item.daintests.demonic_dice": "Demonic Dice",
+  "item.daintests.light_dice": "Light Dice",
+  "item.daintests.void_dice": "Void Dice",
+  "item.daintests.dragon_dice": "Draconian Dice",
+  "item.daintests.ender_dice": "Ender Dice",
+
+  "item.daintests.ender_essence_bucket": "Ender Essence Bucket",
+
+  "item.daintests.zhongo_spawn_egg": "Zhongo Spawn Egg",
+  "item.daintests.horden_spawn_egg": "Horden Spawn Egg",
+  "item.daintests.croaktar_spawn_egg": "Croaktar Spawn Egg",
+  "item.daintests.honziade_spawn_egg": "Honziade Spawn Egg",
+  "item.daintests.honziade_queen_spawn_egg": "Honziade Queen Spawn Egg",
+  "item.daintests.evolved_croaktar_spawn_egg": "Evolved Croaktar Spawn Egg",
+  "item.daintests.hunter_spawn_egg": "Hunter Spawn Egg",
+  "item.daintests.fungi_egg_spawn_egg": "Fungi Egg Spawn Egg",
+  "item.daintests.fungi_maggot_spawn_egg": "Maggot Spawn Egg",
+  "item.daintests.beacon_spawn_egg": "Beacon Spawn Egg",
+
+  "block.daintests.wolframite_ore": "Wolframite Ore",
+  "block.daintests.deepslate_wolframite_ore": "Deepslate Wolframite Ore",
+
+  "block.daintests.end_stone_ender_essence_ore": "End Stone Ender-Essence Ore",
+  "block.daintests.netherrack_ender_essence_ore": "Netherrack Ender-Essence Ore",
+
+  "block.daintests.wolframium_block": "Wolframium Block",
+
+  "block.daintests.reactor_block": "Reactor",
+
+  "block.daintests.strawberry_crop": "Strawberry Crop",
+
+  "entity.minecraft.villager.daintests.nuclear_engineer": "Nuclear Engineer",
+
+  "entity.daintests.zhongo": "Zhongo",
+  "entity.daintests.horden": "Horden",
+  "entity.daintests.croaktar": "Croaktar",
+  "entity.daintests.honziade": "Honziade",
+  "entity.daintests.honziade_queen": "Honziade Queen",
+  "entity.daintests.evolved_croaktar": "Evolved Croaktar",
+  "entity.daintests.hunter": "Hunter",
+  "entity.daintests.fungi_egg": "Infected Egg",
+  "entity.daintests.fungi_maggot": "Maggot",
+  "entity.daintests.beacon": "Beacon",
+
+  "sounds.daintests.zhongo_idle": "Zhongo growl",
+  "sounds.daintests.zhongo_step": "footsteps",
+  "sounds.daintests.zhongo_hurt": "Zhongo hurts",
+  "sounds.daintests.zhongo_death": "Zhongo dies",
+
+  "sounds.daintests.horden_idle": "Horden growl",
+  "sounds.daintests.horden_step": "footsteps",
+  "sounds.daintests.horden_hurt": "Horden hurts",
+  "sounds.daintests.horden_death": "Horden dies",
+
+  "sounds.daintests.croaktar_idle": "Croaktar growl",
+  "sounds.daintests.croaktar_step": "footsteps",
+  "sounds.daintests.croaktar_hurt": "Croaktar hurts",
+  "sounds.daintests.croaktar_death": "Croaktar dies",
+
+  "sounds.daintests.honziade_idle": "Honziade approaches",
+  "sounds.daintests.honziade_step": "footsteps",
+  "sounds.daintests.honziade_hurt": "Honziade hurts",
+  "sounds.daintests.honziade_death": "Honziade dies",
+
+  "sounds.daintests.hunter_idle": "Hunter growl",
+  "sounds.daintests.hunter_step": "footsteps",
+  "sounds.daintests.hunter_hurt": "Hunter hurts",
+  "sounds.daintests.hunter_death": "Hunter dies",
+
+
+  "itemGroup.artifacts_tab": "Artifacts",
+  "itemGroup.hmmm_tab": "Hmmm",
+
+  "key.category.daintests": "Tests Mod Category",
+
+  "key.daintests.drink_water": "Drink Water",
+  "key.daintests.rpg_stats_menu": "RPG Stats Menu",
+
+  "message.daintests.drink_water": "Water drunk!",
+  "message.daintests.no_water": "No water nearby..."
+
+}
