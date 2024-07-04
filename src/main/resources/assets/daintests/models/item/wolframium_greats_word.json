@@ -2,9 +2,9 @@
   "parent": "minecraft:item/handheld",
   "loader": "forge:separate_transforms",
   "base": {
-    "parent": "hongoz:handheld/great_sword_handheld",
+    "parent": "daintests:handheld/great_sword_handheld",
     "textures": {
-      "layer0": "hongoz:item/wolframium_great_sword"
+      "layer0": "daintests:item/wolframium_great_sword"
     }
   },
 
@@ -12,7 +12,7 @@
     "gui": {
       "parent": "minecraft:item/generated",
       "textures": {
-        "layer0": "hongoz:item/wolframium_great_sword"
+        "layer0": "daintests:item/wolframium_great_sword"
       }
     }
   }

@@ -2,15 +2,15 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "testsmod:item/dice/golden/corner",
-		"2": "testsmod:item/dice/golden/center",
-		"3": "testsmod:item/dice/golden/face_6",
-		"4": "testsmod:item/dice/golden/face_1",
-		"5": "testsmod:item/dice/golden/face_4",
-		"6": "testsmod:item/dice/golden/face_3",
-		"7": "testsmod:item/dice/golden/face_2",
-		"8": "testsmod:item/dice/golden/face_5",
-		"particle": "testsmod:item/dice/golden/center"
+		"1": "daintests:item/dice/golden/corner",
+		"2": "daintests:item/dice/golden/center",
+		"3": "daintests:item/dice/golden/face_6",
+		"4": "daintests:item/dice/golden/face_1",
+		"5": "daintests:item/dice/golden/face_4",
+		"6": "daintests:item/dice/golden/face_3",
+		"7": "daintests:item/dice/golden/face_2",
+		"8": "daintests:item/dice/golden/face_5",
+		"particle": "daintests:item/dice/golden/center"
 	},
 	"elements": [
 		{

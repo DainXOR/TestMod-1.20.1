@@ -1,5 +1,7 @@
 {
   "variants": {
-    "": {"model":  "hongoz:block/wolframium_block_shine"}
+    "": {
+      "model":  "daintests:block/wolframium_block_shine"
+    }
   }
 }

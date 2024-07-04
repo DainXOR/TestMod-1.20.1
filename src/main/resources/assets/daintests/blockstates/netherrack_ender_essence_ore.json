@@ -1,5 +1,5 @@
 {
   "variants": {
-    "": {"model":  "testsmod:block/netherrack_ender_essence_ore"}
+    "": {"model":  "daintests:block/netherrack_ender_essence_ore"}
   }
 }

@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.zhongo.idle": {
+		"animation.cyst.idle": {
 			"loop": true,
 			"animation_length": 1.625,
 			"bones": {
@@ -106,7 +106,7 @@
 				}
 			}
 		},
-		"animation.zhongo.walk": {
+		"animation.cyst.walk": {
 			"loop": true,
 			"animation_length": 1.5,
 			"bones": {
@@ -313,7 +313,7 @@
 				}
 			}
 		},
-		"animation.zhongo.attack": {
+		"animation.cyst.attack": {
 			"animation_length": 0.41667,
 			"bones": {
 				"head": {

@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "hongoz:item/wolframite_dust"
+    "layer0": "daintests:item/wolframite_dust"
   }
 }

@@ -2,13 +2,13 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "testsmod:block/reactor/floor_glass",
-		"2": "testsmod:block/reactor/reactor_base_inactive",
-		"4": "testsmod:block/reactor/corner_stick",
-		"5": "testsmod:block/reactor/fixed_corner",
-		"6": "testsmod:block/reactor/border",
-		"7": "testsmod:block/reactor/border_sticks",
-		"particle": "testsmod:block/reactor/reactor_base_inactive"
+		"1": "daintests:block/reactor/floor_glass",
+		"2": "daintests:block/reactor/reactor_base_inactive",
+		"4": "daintests:block/reactor/corner_stick",
+		"5": "daintests:block/reactor/fixed_corner",
+		"6": "daintests:block/reactor/border",
+		"7": "daintests:block/reactor/border_sticks",
+		"particle": "daintests:block/reactor/reactor_base_inactive"
 	},
 	"elements": [
 		{

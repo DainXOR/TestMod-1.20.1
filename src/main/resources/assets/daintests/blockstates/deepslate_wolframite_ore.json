@@ -1,6 +1,7 @@
 {
   "variants": {
     "": {
-      "model":  "hongoz:block/deepslate_wolframite_ore"}
+      "model": "daintests:block/deepslate_wolframite_ore"
+    }
   }
 }

@@ -2,14 +2,14 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "testsmod:item/dice/demonic/corner",
-		"2": "testsmod:item/dice/demonic/center",
-		"3": "testsmod:item/dice/demonic/face_6",
-		"4": "testsmod:item/dice/demonic/face_1",
-		"5": "testsmod:item/dice/demonic/face_4",
-		"6": "testsmod:item/dice/demonic/face_3",
-		"7": "testsmod:item/dice/demonic/face_2",
-		"8": "testsmod:item/dice/demonic/face_5"
+		"1": "daintests:item/dice/demonic/corner",
+		"2": "daintests:item/dice/demonic/center",
+		"3": "daintests:item/dice/demonic/face_6",
+		"4": "daintests:item/dice/demonic/face_1",
+		"5": "daintests:item/dice/demonic/face_4",
+		"6": "daintests:item/dice/demonic/face_3",
+		"7": "daintests:item/dice/demonic/face_2",
+		"8": "daintests:item/dice/demonic/face_5"
 	},
 	"elements": [
 		{

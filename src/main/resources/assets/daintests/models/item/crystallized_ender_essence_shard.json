@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "testsmod:item/crystallized_ender_essence_shard"
+    "layer0": "daintests:item/crystallized_ender_essence_shard"
   }
 }

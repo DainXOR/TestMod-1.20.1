@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.croaktar.idle": {
+		"animation.crawler.idle": {
 			"loop": true,
 			"animation_length": 1,
 			"bones": {
@@ -33,7 +33,7 @@
 				}
 			}
 		},
-		"animation.croaktar.walk": {
+		"animation.crawler.walk": {
 			"loop": true,
 			"animation_length": 0.75,
 			"bones": {
@@ -142,7 +142,7 @@
 				}
 			}
 		},
-		"animation.croaktar.attack": {
+		"animation.crawler.attack": {
 			"animation_length": 0.5,
 			"bones": {
 				"body": {

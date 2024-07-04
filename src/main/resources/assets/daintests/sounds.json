@@ -1,72 +1,72 @@
 {
-  "zhongo_idle": {
-    "subtitle": "sounds.hongoz.zhongo_idle",
+  "cyst_idle": {
+    "subtitle": "sounds.daintests.cyst_idle",
     "category": "neutral",
     "sounds": [
-      "hongoz:zhongo_idle"
+      "daintests:cyst_idle"
     ]
   },
-  "zhongo_hurt": {
-    "subtitle": "sounds.hongoz.zhongo_hurt",
+  "cyst_hurt": {
+    "subtitle": "sounds.daintests.cyst_hurt",
     "category": "neutral",
     "sounds": [
-      "hongoz:zhongo_hurt"
+      "daintests:cyst_hurt"
     ]
   },
-  "zhongo_death": {
-    "subtitle": "sounds.hongoz.zhongo_death",
+  "cyst_death": {
+    "subtitle": "sounds.daintests.cyst_death",
     "category": "neutral",
     "sounds": [
-      "hongoz:zhongo_death"
+      "daintests:cyst_death"
     ]
   },
-  "horden_death": {
-    "subtitle": "sounds.hongoz.horden_death",
+  "titan_death": {
+    "subtitle": "sounds.daintests.titan_death",
     "category": "neutral",
     "sounds": [
-      "hongoz:horden_death"
+      "daintests:titan_death"
     ]
   },
-  "horden_hurt": {
-    "subtitle": "sounds.hongoz.horden_hurt",
+  "titan_hurt": {
+    "subtitle": "sounds.daintests.titan_hurt",
     "category": "neutral",
     "sounds": [
-      "hongoz:horden_hurt"
+      "daintests:titan_hurt"
     ]
   },
-  "horden_idle": {
-    "subtitle": "sounds.hongoz.horden_idle",
+  "titan_idle": {
+    "subtitle": "sounds.daintests.titan_idle",
     "category": "neutral",
     "sounds": [
-      "hongoz:horden_idle"
+      "daintests:titan_idle"
     ]
   },
-  "horden_step": {
-    "subtitle": "sounds.hongoz.horden_step",
+  "titan_step": {
+    "subtitle": "sounds.daintests.titan_step",
     "category": "neutral",
     "sounds": [
-      "hongoz:horden_step"
+      "daintests:titan_step"
     ]
   },
-  "honziade_idle": {
-    "subtitle": "sounds.hongoz.honziade_idle",
+  "weaver_idle": {
+    "subtitle": "sounds.daintests.weaver_idle",
     "category": "neutral",
     "sounds": [
-      "hongoz:honziade_idle"
+      "daintests:weaver_idle"
     ]
   },
-  "hunter_idle": {
-    "subtitle": "sounds.hongoz.hunter_idle",
+  "howler_idle": {
+    "subtitle": "sounds.daintests.howler_idle",
     "category": "neutral",
     "sounds": [
-      "hongoz:hunter_idle"
+      "daintests:howler_idle"
     ]
   },
-  "hunter_aggresive": {
-    "subtitle": "sounds.hongoz.hunter_aggresive",
+  "howler_aggresive": {
+    "subtitle": "sounds.daintests.howler_aggresive",
     "category": "neutral",
     "sounds": [
-      "hongoz:hunter_aggresive"
+      "daintests:howler_aggresive"
     ]
   }
 }

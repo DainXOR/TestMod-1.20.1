@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.horden.idle": {
+		"animation.titan.idle": {
 			"loop": true,
 			"animation_length": 3,
 			"bones": {
@@ -255,7 +255,7 @@
 				}
 			}
 		},
-		"animation.horden.walk": {
+		"animation.titan.walk": {
 			"loop": true,
 			"animation_length": 2,
 			"bones": {
@@ -453,7 +453,7 @@
 				}
 			}
 		},
-		"animation.horden.attack": {
+		"animation.titan.attack": {
 			"animation_length": 0.58333,
 			"bones": {
 				"cabeza_derecha": {

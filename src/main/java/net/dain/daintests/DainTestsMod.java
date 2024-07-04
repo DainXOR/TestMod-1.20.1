@@ -3,7 +3,7 @@ package net.dain.daintests;
 import com.mojang.logging.LogUtils;
 import net.dain.daintests.block.ModBlocks;
 import net.dain.daintests.item.ModItems;
-import net.minecraft.world.item.CreativeModeTab;
+import net.dain.daintests.item.ModTabs;
 import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
@@ -17,6 +17,7 @@ import net.minecraftforge.fml.config.ModConfig;
 import net.minecraftforge.fml.event.lifecycle.FMLClientSetupEvent;
 import net.minecraftforge.fml.event.lifecycle.FMLCommonSetupEvent;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
+import net.minecraftforge.registries.RegistryObject;
 import org.slf4j.Logger;
 
 // The value here should match an entry in the META-INF/mods.toml file
@@ -30,12 +31,14 @@ public class DainTestsMod {
 
         ModItems.register(modEventBus);
         ModBlocks.register(modEventBus);
+        ModTabs.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
         // Register ourselves for server and other game events we are interested in
         MinecraftForge.EVENT_BUS.register(this);
 
+        modEventBus.addListener(this::addCreative);
         // Register our mod's ForgeConfigSpec so that Forge can create and load the config file for us
         ModLoadingContext.get().registerConfig(ModConfig.Type.COMMON, Config.SPEC);
     }
@@ -45,8 +48,11 @@ public class DainTestsMod {
 
     private void addCreative(BuildCreativeModeTabContentsEvent event) {
         if(event.getTabKey() == CreativeModeTabs.INGREDIENTS) {
-            ModItems.ITEMS.getEntries().forEach(event::accept);
-
+            ModItems.ITEMS
+                    .getEntries()
+                    .stream()
+                    .map(RegistryObject::get)
+                    .forEach(event::accept);
         }
     }
 

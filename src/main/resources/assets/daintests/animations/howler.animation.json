@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.hunter.idle": {
+		"animation.howler.idle": {
 			"loop": true,
 			"animation_length": 4,
 			"bones": {
@@ -644,7 +644,7 @@
 				}
 			}
 		},
-		"animation.hunter.walk": {
+		"animation.howler.walk": {
 			"loop": true,
 			"animation_length": 4,
 			"bones": {
@@ -1385,7 +1385,7 @@
 				}
 			}
 		},
-		"animation.hunter.attack": {
+		"animation.howler.attack": {
 			"animation_length": 0.79167,
 			"bones": {
 				"torso": {
@@ -1728,7 +1728,7 @@
 				}
 			}
 		},
-		"animation.hunter.roar": {
+		"animation.howler.roar": {
 			"animation_length": 2,
 			"bones": {
 				"torso": {

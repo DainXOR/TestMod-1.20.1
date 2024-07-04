@@ -12,10 +12,29 @@ public class ModItems {
             ForgeRegistries.ITEMS, DainTestsMod.MOD_ID
     );
 
-    public static final RegistryObject<Item> EXAMPLE_ITEM = ITEMS.register(
-            "example_item",
+    public static final RegistryObject<Item> RAW_WOLFRAMITE = ITEMS.register(
+            "raw_wolframite",
             () -> new Item(new Item.Properties())
     );
+    public static final RegistryObject<Item> WOLFRAMITE_DUST = ITEMS.register(
+            "wolframite_dust",
+            () -> new Item(new Item.Properties())
+    );
+    public static final RegistryObject<Item> WOLFRAMIUM_INGOT = ITEMS.register(
+            "wolframium_ingot",
+            () -> new Item(new Item.Properties())
+    );
+
+    public static final RegistryObject<Item> BISMUTH_INGOT = ITEMS.register(
+            "bismuth_ingot",
+            () -> new Item(new Item.Properties())
+    );
+
+    public static final RegistryObject<Item> CRYSTALLIZED_ENDER_ESSSENCE_SHARD = ITEMS.register(
+            "crystallized_ender_essence_shard",
+            () -> new Item(new Item.Properties())
+    );
+
 
 
 

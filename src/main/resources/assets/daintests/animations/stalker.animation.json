@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.evolved_croaktar.idle": {
+		"animation.stalker.idle": {
 			"loop": true,
 			"animation_length": 2,
 			"bones": {
@@ -280,7 +280,7 @@
 				}
 			}
 		},
-		"animation.evolved_croaktar.walk": {
+		"animation.stalker.walk": {
 			"loop": true,
 			"animation_length": 2,
 			"bones": {
@@ -772,7 +772,7 @@
 				}
 			}
 		},
-		"animation.evolved_croaktar.attack": {
+		"animation.stalker.attack": {
 			"animation_length": 0.625,
 			"bones": {
 				"cabezacuerpo": {

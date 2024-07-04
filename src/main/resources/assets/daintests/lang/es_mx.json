@@ -1,31 +1,115 @@
 {
-  "item.hongoz.zhongo_spawn_egg": "Zhongo Spawn Egg",
-  "item.hongoz.horden_spawn_egg": "Horden Spawn Egg",
-  "item.hongoz.croaktar_spawn_egg": "Croaktar Spawn Egg",
-  "item.hongoz.honziade_spawn_egg": "Honziade Spawn Egg",
+  "item.daintests.raw_wolframite": "Wolframita en bruto",
+  "item.daintests.wolframite_dust": "Wolframita en polvo",
+  "item.daintests.wolframium_ingot": "Lingote de wolframio",
 
-  "entity.hongoz.zhongo": "Zhongo",
-  "entity.hongoz.horden": "Horden",
-  "entity.hongoz.croaktar": "Croaktar",
-  "entity.hongoz.honziade": "Honziade",
+  "item.daintests.bismuth_ingot": "Lingote de Bismuto",
 
-  "sounds.hongoz.zhongo_idle": "Zhongo gruñe",
-  "sounds.hongoz.zhongo_step": "Pasos de Zhongo",
-  "sounds.hongoz.zhongo_hurt": "Zhongo herido",
-  "sounds.hongoz.zhongo_death": "Zhongo muere",
+  "item.daintests.crystallized_ender_essence_shard": "Fragmento de Esencia del Fin Cristalizada",
 
-  "sounds.hongoz.horden_idle": "Horden growl",
-  "sounds.hongoz.horden_step": "Horden steps",
-  "sounds.hongoz.horden_hurt": "Horden hurts",
-  "sounds.hongoz.horden_death": "Horden dies",
+  "item.daintests.strawberry": "Fresa",
+  "item.daintests.blueberry": "Arandano",
+  "item.daintests.blackberry": "Mora",
+  "item.daintests.strawberry_seeds": "Semillas de Fresa",
 
-  "sounds.hongoz.croaktar_idle": "Croaktar growl",
-  "sounds.hongoz.croaktar_step": "Croaktar steps",
-  "sounds.hongoz.croaktar_hurt": "Croaktar hurts",
-  "sounds.hongoz.croaktar_death": "Croaktar dies",
+  "item.daintests.dice": "Dado",
+  "item.daintests.saaa_dice": "Dado Misterioso",
+  "item.daintests.0_1_dice": "Dado 0-1",
+  "item.daintests.2_dice": "Dado 2",
+  "item.daintests.3_dice": "Dado 3",
+  "item.daintests.5_dice": "Dado 5",
+  "item.daintests.7_dice": "Dado 7",
+  "item.daintests.10_dice": "Dado 10",
+  "item.daintests.golden_dice": "Dado Dorado",
+  "item.daintests.black_dice": "Dado Negro",
+  "item.daintests.white_dice": "Dado Blanco",
+  "item.daintests.emerald_dice": "Dado Esmeralda",
+  "item.daintests.demonic_dice": "Dado Demoniaco",
+  "item.daintests.light_dice": "Dado de Luz",
+  "item.daintests.void_dice": "Dado de Vacio",
+  "item.daintests.dragon_dice": "Dado Draconiano",
+  "item.daintests.ender_dice": "Dado del Fin",
 
-  "sounds.hongoz.honziade_idle": "Honziade growl",
-  "sounds.hongoz.honziade_step": "Honziade steps",
-  "sounds.hongoz.honziade_hurt": "Honziade hurts",
-  "sounds.hongoz.honziade_death": "Honziade dies"
+  "item.daintests.ender_essence_bucket": "Cubo con Esencia del Fin",
+
+  "item.daintests.cyst_spawn_egg": "Huevo de Quiste",
+  "item.daintests.sprinter_spawn_egg": "Huevo de Corredor",
+  "item.daintests.titan_spawn_egg": "Huevo de Acorazado",
+  "item.daintests.crawler_spawn_egg": "Huevo de Crawler",
+  "item.daintests.weaver_spawn_egg": "Huevo de Tejedor",
+  "item.daintests.weaver_queen_spawn_egg": "Huevo de Tejedora Reina",
+  "item.daintests.stalker_spawn_egg": "Huevo de Acechador",
+  "item.daintests.howler_spawn_egg": "Huevo de Aullador",
+  "item.daintests.sack_spawn_egg": "Huevo de Saco Infestado",
+  "item.daintests.grub_spawn_egg": "Huevo de Larva",
+  "item.daintests.node_spawn_egg": "Huevo de Nodo",
+
+  "block.daintests.wolframite_ore": "Mineral de wolframita",
+  "block.daintests.deepslate_wolframite_ore": "Mineral de wolframita profunda",
+  "block.daintests.end_stone_ender_essence_ore": "Mineral de Esencia del Fin",
+  "block.daintests.netherrack_ender_essence_ore": "Mineral de Esencia del Fin",
+
+  "block.daintests.wolframium_block": "Bloque de Wolframio",
+
+  "block.daintests.reactor_block": "Reactor",
+
+  "block.daintests.strawberry_crop": "Strawberry Crop",
+
+  "entity.minecraft.villager.daintests.nuclear_engineer": "Ingeniero Nuclear",
+
+  "entity.daintests.cyst": "Quiste",
+  "entity.daintests.sprinter": "Corredor",
+  "entity.daintests.titan": "Acorazado",
+  "entity.daintests.crawler": "Crawler",
+  "entity.daintests.weaver": "Tejedor",
+  "entity.daintests.weaver_queen": "Reina Tejedora",
+  "entity.daintests.stalker": "Acechador",
+  "entity.daintests.howler": "Aullador",
+  "entity.daintests.sack": "Saco Infestado",
+  "entity.daintests.grub": "Larva",
+  "entity.daintests.node": "Nodo",
+
+  "sounds.daintests.cyst_idle": "Cyst growl",
+  "sounds.daintests.cyst_step": "Cyst footsteps",
+  "sounds.daintests.cyst_hurt": "Cyst hurts",
+  "sounds.daintests.cyst_death": "Cyst dies",
+
+  "sounds.daintests.sprinter_idle": "Sprinter growl",
+  "sounds.daintests.sprinter_step": "Sprinter footsteps",
+  "sounds.daintests.sprinter_hurt": "Sprinter hurts",
+  "sounds.daintests.sprinter_death": "Sprinter dies",
+
+  "sounds.daintests.titan_idle": "Titan growl",
+  "sounds.daintests.titan_step": "Titan footsteps",
+  "sounds.daintests.titan_hurt": "Titan hurts",
+  "sounds.daintests.titan_death": "Titan dies",
+
+  "sounds.daintests.crawler_idle": "Crawler growl",
+  "sounds.daintests.crawler_step": "Crawler footsteps",
+  "sounds.daintests.crawler_hurt": "Crawler hurts",
+  "sounds.daintests.crawler_death": "Crawler dies",
+
+  "sounds.daintests.weaver_idle": "Weaver approaches",
+  "sounds.daintests.weaver_step": "Weaver footsteps",
+  "sounds.daintests.weaver_hurt": "Weaver hurts",
+  "sounds.daintests.weaver_death": "Weaver dies",
+
+  "sounds.daintests.howler_idle": "Howler growl",
+  "sounds.daintests.howler_step": "Howler footsteps",
+  "sounds.daintests.howler_hurt": "Howler hurts",
+  "sounds.daintests.howler_death": "Howler dies",
+
+
+  "creative_tab.daintests.tests": "Hmmm",
+  "creative_tab.daintests.artifacts": "Artefactos",
+  "creative_tab.daintests.relics": "Reliquias",
+
+  "key.category.daintests": "Tests Mod Category",
+
+  "key.daintests.drink_water": "Toma Agua",
+  "key.daintests.rpg_stats_menu": "Menu de estadisticas RPG",
+
+  "message.daintests.drink_water": "Agua bebida!",
+  "message.daintests.no_water": "No hay agua cerca..."
+
 }

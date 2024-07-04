@@ -1,7 +1,7 @@
 {
 	"format_version": "1.8.0",
 	"animations": {
-		"animation.honziade.idle": {
+		"animation.weaver.idle": {
 			"loop": true,
 			"animation_length": 2,
 			"loop_delay": "2",
@@ -156,7 +156,7 @@
 				}
 			}
 		},
-		"animation.honziade.walk": {
+		"animation.weaver.walk": {
 			"loop": true,
 			"animation_length": 2,
 			"loop_delay": "2",
@@ -556,7 +556,7 @@
 				}
 			}
 		},
-		"animation.honziade.attack": {
+		"animation.weaver.attack": {
 			"loop": true,
 			"animation_length": 0.54167,
 			"bones": {

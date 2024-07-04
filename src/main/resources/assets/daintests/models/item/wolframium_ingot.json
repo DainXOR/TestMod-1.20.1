@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "hongoz:item/wolframium_ingot"
+    "layer0": "daintests:item/wolframium_ingot"
   }
 }
