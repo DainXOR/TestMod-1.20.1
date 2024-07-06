@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "hongoz:honziade",
+    "weight": 150,
+    "minCount": 4,
+    "maxCount": 10
+  }
+}

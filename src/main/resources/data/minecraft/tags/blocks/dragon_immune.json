@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "daintests:wolframium_block",
+    "daintests:wolframite_ore",
+    "daintests:deepslate_wolframite_ore"
+  ]
+}

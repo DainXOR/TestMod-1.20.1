@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [{
+    "item": "daintests:wolframium_block"
+  }],
+  "result": {
+    "item": "daintests:wolframium_ingot",
+    "count": 9
+  }
+}

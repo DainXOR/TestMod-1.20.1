@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model":  "daintests:block/wolframite_ore"
+      "model": "daintests:block/wolframite_ore"
     }
   }
 }

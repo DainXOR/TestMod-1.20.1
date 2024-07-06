@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "daintests:wolframium_block",
+    "daintests:wolframite_ore",
+    "daintests:deepslate_wolframite_ore",
+    "daintests:end_stone_ender_essence_ore",
+    "daintests:netherrack_ender_essence_ore"
+  ]
+}

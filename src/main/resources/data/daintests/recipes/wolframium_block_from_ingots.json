@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "daintests:wolframium_ingot"
+    }
+  },
+  "result": {
+    "item": "daintests:wolframium_block"
+  }
+}
